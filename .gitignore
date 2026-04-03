@@ -39,6 +39,11 @@ Thumbs.db
 # Docker
 .docker/
 
+# Environment variables (sensitive)
+.env
+.env.local
+.env.*.local
+
 # Misc
 *.bak
 *.tmp
